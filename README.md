@@ -3,6 +3,7 @@
 This is Sanjay, I aim to build scalable applications.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Coding-Maniac&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
 	<a href="https://www.linkedin.com/in/sanjay-kapilesh/">
