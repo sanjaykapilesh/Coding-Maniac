@@ -9,10 +9,7 @@ This is Sanjay, I aim to build scalable applications.
 	<a href="https://www.linkedin.com/in/sanjay-kapilesh/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" />
     </a>
-    <a href="https://www.instagram.com/sanjay_kapilesh/">
-        <img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" />
-    </a>
-    <a href="mailto:ufoundsanjay@gmail.com">
+    <a href="mailto:sanjaykapileshsridhar@gmail.com">
         <img src="https://img.shields.io/badge/Mail--_.svg?style=social&logo=gmail" />
     </a>
 </p>
